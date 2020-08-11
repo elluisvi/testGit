@@ -1,1 +1,2 @@
 10:38: Archivo Inicial.
+10:51 Edicion despues de primer commit.
